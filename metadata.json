@@ -1,0 +1,6 @@
+{
+  "name": "ShopZone E-Commerce Store",
+  "description": "Full-stack e-commerce web application with product catalog, cart, checkout, role-based user/admin access, backend APIs, and real-time order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
